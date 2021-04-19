@@ -1,4 +1,4 @@
-package io.zp.algorithem.character;
+package io.hzp.algorithem.character;
 
 /**
  * 判断是否为子序列

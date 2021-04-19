@@ -2,7 +2,7 @@
 .idea/
 algorithm.iml
 pom.xml
-src/main/java/io/zp/algorithem/BucketSort.java
+src/main/java/io/hzp/algorithem/BucketSort.java
 src/main/resources/
 src/test/
 target/

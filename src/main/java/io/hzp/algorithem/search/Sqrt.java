@@ -1,4 +1,4 @@
-package io.zp.algorithem.search;
+package io.hzp.algorithem.search;
 
 /**
  * 考察二分查找

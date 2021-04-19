@@ -1,4 +1,4 @@
-package io.zp.algorithem.greedy;
+package io.hzp.algorithem.greedy;
 
 
 import java.util.Arrays;
